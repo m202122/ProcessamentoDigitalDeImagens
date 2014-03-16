@@ -2,6 +2,7 @@ Processamento digital de imagens
 =============================
 
 Aplicativo com interface gráfica utilizando a biblioteca ITK. 
+OBS: projeto sem as bibliotecas ITK. Deve ser compilada com ajuda do cmake e incorporada na pasta do projeto.
 
 Suas funcionalidades:
 
@@ -17,8 +18,6 @@ Suas funcionalidades:
 - Segmentação por Otsu
 - Segmentação por Watershed.
 - Funcionalidade extra: componentes conexos
-
-OBS: projeto sem as bibliotecas ITK.
 
 Linguagem C++
 
