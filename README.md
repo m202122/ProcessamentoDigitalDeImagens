@@ -18,4 +18,9 @@ Suas funcionalidades:
 - Segmentação por Watershed.
 - Funcionalidade extra: componentes conexos
 
+OBS: projeto sem as bibliotecas ITK.
+
 Linguagem C++
+
+Interface elaborada com auxílio de wxWidgets-3.0.0.tar.bz2.
+
